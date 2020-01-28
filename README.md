@@ -1,4 +1,4 @@
-# AeroZena (Static website)
+# AeroZena
 
 ```html
 This is a clone project, according to Brad Traversy Udemy course. But I write code from scratch for this project.
